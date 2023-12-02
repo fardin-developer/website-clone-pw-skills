@@ -4,8 +4,8 @@ This repository hosts code for a website clone that replicates the design of a c
 
 <hr>
 
-### [Live Website]()
-### [My LinkedIn]()
+### [Live Website](https://fardin-developer.github.io/website-clone-pw-skills/)
+### [My LinkedIn](https://www.linkedin.com/in/fardin-mustaque-28996a230/)
 <hr>
 
 ## Preview
