@@ -4,8 +4,8 @@ This repository hosts code for a website clone that replicates the design of a c
 
 <hr>
 
-### [Live Website](https://manikmaity.github.io/Website-Clone/)
-### [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
+### [Live Website]()
+### [My LinkedIn]()
 <hr>
 
 ## Preview
